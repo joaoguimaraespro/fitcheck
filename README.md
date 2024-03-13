@@ -17,8 +17,8 @@ Fitcheck is an Android application designed to help users track their physical a
 
 ## Documentation
 
-- [Mockups](./Docs/Mockups)
-- [Requirements](./Docs/Requirements)
+- [Mockups](./docs/mockups)
+- [Requirements](./docs/requirements)
 
 ## License
 
