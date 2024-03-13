@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/drawable/ic_walking.xml" value="0.3355" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/activity_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_home.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_login.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_maps.xml" value="0.3858695652173913" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_profile.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_register.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_training.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_training_details.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_training_route_map.xml" value="0.3858695652173913" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU/CMU_TrabContinua/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_treino_list.xml" value="0.5" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/drawable/ic_gym.xml" value="0.403125" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/layout/activity_authentication.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_homepage.xml" value="0.33" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_login.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/layout/fragment_register.xml" value="0.38697916666666665" />
+        <entry key="..\:/Igor/Educacao/LicEngenhariaInformatica/ESTG_IPP/4Ano/1sem/CMU_TP/FitcheckProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.403125" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic__1nd_prize.xml" value="0.2075" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic__3nd_prize.xml" value="0.2075" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic_distintivo_1.xml" value="0.1145" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic_edificios_1.xml" value="0.1145" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic_market_sport.xml" value="0.1145" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic_natureza.xml" value="0.1145" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic_personmarker.xml" value="0.1" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/drawable/ic_pista_de_corrida.xml" value="0.1145" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout-w600dp/drop_menu_item.xml" value="0.18430335097001763" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout-w600dp/fragment_home.xml" value="0.13668430335097" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout-w600dp/fragment_maps.xml" value="0.13668430335097" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout-w600dp/fragment_ranking.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout-w600dp/fragment_statistics.xml" value="0.13668430335097" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout-w600dp/fragment_training.xml" value="0.14594356261022928" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/activity_menu.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/drop_menu_item.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_manual_training.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_profile.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_ranking.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_statistics.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_training.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_training_details.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_treino_item_list.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/fragment_treino_list.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/layout/spinner_item.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/menu/nav_menu.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCMU/FitcheckProject/app/src/main/res/menu/tool_menu.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.30092592592592593" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/drawable/ic_champion.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.30092592592592593" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/drawable/ic_locmarket.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/drawable/ic_market_sport.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/drawable/ic_personmarker.xml" value="0.1453125" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/drawable/ic_stats.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/activity_authentication.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/activity_main.xml" value="0.1609375" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_blank.xml" value="0.1609375" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_custom_info_window_adapter.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_home.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_login.xml" value="0.20883534136546184" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_map.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_maps.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_profile.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_register.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/fragment_statistics.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/layout/list_gender.xml" value="0.1046875" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/menu/nav_menu.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/Huawei/OneDrive/Ambiente de Trabalho/Escola/3ano/1Semestre/CMU/TrabalhoCmu/FitcheckProject/app/src/main/res/mipmap-anydpi-v26/ic_launcherl_logo_CMU.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.538" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.538" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.538" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.538" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/ic_gym.xml" value="0.538" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/ic_outline_crop_square_24.xml" value="0.1935" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/ic_search_engine.xml" value="0.538" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/drawable/round_border.xml" value="0.1935" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout-w600dp/fragment_statistics.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/activity_authentication.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/activity_menu.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/dialog_picker_number.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_home.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_login.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_profile.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_ranking.xml" value="0.55" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_ranking_list.xml" value="0.5359375" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_register.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_reset_password.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_statistics.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_training.xml" value="0.55" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_treino_item_list.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/fragment_treino_list.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.55" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/layout/spinner_item.xml" value="0.55" />
+        <entry key="..\:/Users/rober/Ambiente de Trabalho/Estudos/ESTG/2021-2022/Primeiro_Semestre/CMU/TP/FitcheckProject/app/src/main/res/menu/nav_menu.xml" value="0.30885416666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

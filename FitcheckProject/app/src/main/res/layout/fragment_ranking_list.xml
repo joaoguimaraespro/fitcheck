@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="?attr/colorOnBackground"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="Ranking" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list_ranking"
+        android:name="pt.ipp.estg.fitcheck.Fragments.RankingFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        app:layoutManager="LinearLayoutManager"
+        tools:context=".Fragments.RankingFragment"
+        tools:listitem="@layout/fragment_ranking">
+
+
+    </androidx.recyclerview.widget.RecyclerView>
+</LinearLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10960671029",
+    "project_id": "fitcheck-a0d38",
+    "storage_bucket": "fitcheck-a0d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10960671029:android:81b3d6476deb69f2b23c7c",
+        "android_client_info": {
+          "package_name": "pt.ipp.estg.fitcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10960671029-31m8ciimqmqgco5f4lfdbm5m5rgldv4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.ipp.estg.fitcheck",
+            "certificate_hash": "d93aa6726bf963048bb7723c42cfde84e9dbb064"
+          }
+        },
+        {
+          "client_id": "10960671029-9tesp6i6ik5qms3l7d4h21kapaef04pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-iEPYWx-YBAaeQma0ZqYGpPYnibXoWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10960671029-9tesp6i6ik5qms3l7d4h21kapaef04pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
